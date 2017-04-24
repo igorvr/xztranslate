@@ -1,0 +1,18 @@
+{
+  "name": "xztranslate",
+  "main": "./lib/xztranslate",
+  "version": "0.0.1",
+  "description": "Replaces x with z and z with x regardless of the case",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "xztranslate:toggle"
+  },
+  "repository": "https://github.com/atom/xztranslate",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
